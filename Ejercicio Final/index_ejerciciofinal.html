@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Ejecicio Final - Guia 4</title>
+  <link rel="Stylesheet" href="styles_ejerciciofinal.css" />
+  <script src="./script_ejerciciofinal.js"></script>
+</head>
+
+<body>
+  <div class="events-reminder">
+    <h1>Recordatorio de actividades de la semana</h1>
+    <img src="./imágenes/calendario.jpg" />
+    <h2>¿Haz olvidado que hacer hoy?</h2>
+    <p>Porfavor, ingresa el dia de la semana
+      que deseas conocer la actividad</p>
+  
+  <div class="selectorDay">
+  <label id="titleweekDay", for="weekDay">Selecciona un Día:</label>
+  <select id="weekDay">
+    <option value="">-- Dias de la semana --</option>
+    <option value="Lunes">Lunes</option>
+    <option value="Martes">Martes</option>
+    <option value="Miercoles">Miércoles</option>
+    <option value="Jueves">Jueves</option>
+    <option value="Viernes">Viernes</option>
+    <option value="Sabado">Sábado</option>
+    <option value="Domingo">Domingo</option>
+  </select>
+  </div>
+
+  <button id="selectButton"> Mostrar Actividad </button>
+
+  <h2 id="titleResult">Actividad:</h2>
+  <div class="resultContainer">
+  <p id="result">Esperando selección...</p>
+  </div>
+
+  </div>
+</body>
+
+</html>
