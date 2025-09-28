@@ -17,4 +17,4 @@ JS permite esto como otros lenguajes de programacion porque son utiles para agil
 
 pregunta 2-¿El comportamiento de los flujos de control es similar a otros lenguajes y ambientes de desarrollo?
 
-R// Si es bastante similar aunque algunas cosas cambian, por ejemplo el operador "AND" que tiene prioridad sobre el "OR" eso es nuevo para mi, pero los ejemplos de comporacion y  if/else son iguales a los que conocia de otros lenguajes.
+R// Si es bastante similar aunque algunas cosas cambian, por ejemplo el operador "AND" que tiene prioridad sobre el "OR" eso es nuevo para mi, pero los ejemplos de comparacion y  if/else son iguales a los que conocia de otros lenguajes.
